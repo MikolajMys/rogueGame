@@ -1,13 +1,13 @@
 # GAME DESIGN DOCUMENT (GDD)
-## Nazwa gry: Ostatnie Wyjście
+## Nazwa gry: Ostatnie Wyjście/
 ### Koncept gry
-    Budzisz się z głębokiego snu, do okoła widzisz tylko ciemność. 
+    Budzisz się z głębokiego snu, do okoła widzisz tylko ciemność.
     Nie jesteś w stanie się poruszyć przez kajdany którymi jesteś przykuty do ściany.
     W oddali jednak słyszysz, że coś się do ciebie zbliża.
     Swoją nadludzką siłą zrywasz okowy i stajesz do walki z przeciwnikiem.
     
     W końcu zadajesz sobie pytanie: 
-                    "Jak się tu znalazłem?!" 
+                            "Jak się tu znalazłem?!" 
     Jednak nie jestes w stanie sobie przypomnieć co ci sie tak właściwie stało. 
     Jedyne czego jesteś pewien to to, że musisz się stąd wydostać i zemścić się na tym kto cię tu zamknął.
 
@@ -19,7 +19,8 @@
     Celem gracza będzie znalezienie wyjścia. 
     Na protagoniste czekać będą jednak niechciani przeciwnicy, których będzie mógł wyeliminować lub sprytnie ominąć. 
     W komnatach możliwe będzie znalezienie różnych przydatnych przedmiotów, które w znaczący sposob mogą ułatwić ucieczkę. 
-    Jednak nie wszystkie miejsca są łatwo dostępne lub widoczne, żeby dowiedzieć się co znajduje sie po drugiej stronie tajemniczje komnaty bohater będzie musiał podjąć decyzję czy ryzykuję czy też nie. 
+    Jednak nie wszystkie miejsca są łatwo dostępne lub widoczne, żeby dowiedzieć się
+    co znajduje sie po drugiej stronie tajemniczje komnaty bohater będzie musiał podjąć decyzję czy ryzykuję czy też nie. 
 
 
 ### Mechanika
