@@ -20,17 +20,20 @@
     Na protagoniste czekać będą jednak niechciani przeciwnicy, których będzie mógł wyeliminować lub sprytnie ominąć. 
     W komnatach możliwe będzie znalezienie różnych przydatnych przedmiotów, które w znaczący sposob mogą ułatwić ucieczkę. 
     Jednak nie wszystkie miejsca są łatwo dostępne lub widoczne, żeby dowiedzieć się
-    co znajduje sie po drugiej stronie tajemniczje komnaty bohater będzie musiał podjąć decyzję czy ryzykuję czy też nie. 
+    co znajduje sie po drugiej stronie tajemniczje komnaty bohater będzie musiał podjąć decyzję czy zaryzykować czy też nie. 
 
 
 ### Mechanika
     Naszym bohaterem będziemy poruszać sięza pomocą klawiszy WSAD lub STRZAŁKI.
     Wszystkie stwory będzie można atakować lecz bez broni będzie to bardzo nie efektywne.
-    Ekwiunek i rozmaity wybor pancerzy i broni.
+    Ekwipunek i rozmaity wybor pancerzy i broni.
+    Sposób rozwoju postaci będzie dowolny, decyzje będzie miał gracz.
+
 
 
 ### Elementy gry
-
+    Bochater będzie reprezentowany przez: "@" lub "X"
+    Ściany lochu będą reprezentowane przez: "|" lub "_"
 
 
 ### Zasoby gry
