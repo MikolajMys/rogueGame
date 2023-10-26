@@ -14,7 +14,6 @@
     W skrócie ta gra polega na ucieczce z lochu w którego wnętrzu czeka cię wielka próba siły, sprytu i szczęścia.
     
 
-
 ### Rozgrywka
     Celem gracza będzie znalezienie wyjścia. 
     Na protagoniste czekać będą jednak niechciani przeciwnicy, których będzie mógł wyeliminować lub sprytnie ominąć. 
@@ -24,16 +23,26 @@
 
 
 ### Mechanika
-    Naszym bohaterem będziemy poruszać sięza pomocą klawiszy WSAD lub STRZAŁKI.
-    Wszystkie stwory będzie można atakować lecz bez broni będzie to bardzo nie efektywne.
-    Ekwipunek i rozmaity wybor pancerzy i broni.
-    Sposób rozwoju postaci będzie dowolny, decyzje będzie miał gracz.
-
+    -Naszym bohaterem będziemy poruszać sięza pomocą klawiszy WSAD lub STRZAŁKI.
+    -Wszystkie stwory będzie można atakować lecz bez broni będzie to bardzo nie efektywne.
+    -Ekwipunek i rozmaity wybór pancerzy i broni.
+    -Sposób rozwoju postaci będzie dowolny, decyzje będzie miał gracz.
+    -Losowość znalezionych przedmiotów w skrzyniach.
+    -Sekretne przejścia i pokoje czasem łatwiejsze do znalezienia czasem trudniejsze, 
+    bunusy dla gracza za spostrzegawczość.
+    -Odkrywanie mapy, nie we wszystkich pomieszczeniach będzie odrazu widoczne co znajduje sie w środku.
+    -Skala trudności przeciwników i zagadek roście w stosunku do progresu gry.
+    -Potiony/Mikstury kilka rodzajów głównie do leczenia i zwiększania prędkosci, ale może znajdzie sie i taka na niewidzialność ;D
+    
+     *System kluczy do otwierania drzwi komnat i przejść* ~ rozważam
 
 
 ### Elementy gry
-    Bochater będzie reprezentowany przez: "@" lub "X"
-    Ściany lochu będą reprezentowane przez: "|" lub "_"
+    -Bochater będzie reprezentowany przez: "@" lub "X"
+    -Ściany lochu będą reprezentowane przez: "|" i "_"
+    -Przeciwnicy będą reprezentowani przez: "#" lub "!"
+    -Skrzynie będą reprezentowane przez: "$" lub "D"
+    -Przedmioty będą reprezentowane przez: "*" lub "~"
 
 
 ### Zasoby gry
