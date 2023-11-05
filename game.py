@@ -5,24 +5,26 @@ def draw_map(stdscr, player_x, player_y):
 
     # Rysowanie mapy
     for i in range(20):
-        for j in range(80):
-            if i == 0 or i == 19:
-                stdscr.addch(i, j, ord("_"))
-            elif j == 0 or j == 79:
+        for j in range(79):
+            if i == 0:
+                stdscr.addch(i, j, ord("="))
+            elif j == 0 or j == 78:
                 stdscr.addch(i, j, ord("|"))
+            elif i == 19:
+                stdscr.addch(i, j, ord("="))
             elif i == player_y and j == player_x:
                 stdscr.addch(i, j, ord("@"))
             else:
-                stdscr.addch(i, j, ord(" "))
+                stdscr.addch(i, j, ord("."))
 
     stdscr.refresh()
 
 def main(stdscr):
-    curses.curs_set(0)  # Ukrycie kursora
-    stdscr.nodelay(1)  # Ustawienie trybu non-blocking na wejściu
+    curses.curs_set(0)
+    stdscr.nodelay(1)
     stdscr.clear()
 
-    width = 80
+    width = 79
     height = 20
     player_x = width // 2
     player_y = height // 2
@@ -37,10 +39,10 @@ def main(stdscr):
             player_y -= 1
         elif key == ord('s') and player_y < height - 2:
             player_y += 1
-        elif key == ord('a') and player_x > 1:
-            player_x -= 1
-        elif key == ord('d') and player_x < width - 2:
-            player_x += 1
+        elif key == ord('a') and player_x > 2:
+            player_x -= 2
+        elif key == ord('d') and player_x < width - 3:
+            player_x += 2
 
 if __name__ == "__main__":
     curses.wrapper(main)
