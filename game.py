@@ -5,14 +5,14 @@ def draw_map(stdscr, player_x, player_y):
 
     # Rysowanie mapy
     for i in range(20):
-        for j in range(79):
+        for j in range(0, 82, 2):
             if i == 0:
                 stdscr.addch(i, j, ord("="))
-            elif j == 0 or j == 78:
+            elif j == 0 or j == 80:
                 stdscr.addch(i, j, ord("|"))
             elif i == 19:
                 stdscr.addch(i, j, ord("="))
-            elif i == player_y and j == player_x:
+            elif i == player_y  and j == player_x :
                 stdscr.addch(i, j, ord("@"))
             else:
                 stdscr.addch(i, j, ord("."))
@@ -24,7 +24,7 @@ def main(stdscr):
     stdscr.nodelay(1)
     stdscr.clear()
 
-    width = 79
+    width = 80
     height = 20
     player_x = width // 2
     player_y = height // 2
