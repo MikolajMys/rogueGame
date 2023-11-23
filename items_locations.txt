@@ -1,0 +1,4 @@
+Locations of items:
+Item 1: X=52, Y=4, Type=O
+Item 2: X=68, Y=4, Type=O
+Item 3: X=66, Y=9, Type=!
