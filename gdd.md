@@ -46,3 +46,6 @@
 
 
 ### Zasoby gry
+    -cech: nasz bohater będzie zwiększał swoją wewnętrzną złość z ilością pokonanych przeciwników, jesli w krótkim odstępie czasu pozbędzie się ich kilku będzie się to wiązało z bonusami i bufami
+    -ekwipunku: dostęp do przedmiotów pod przyciskami 1-9, w późniejszym etamie możliwość przewijania eq, narazie 10 slotów musi wystarczyć ;D
+    -umiejętności/mocy/czarów/zdolności specjalnych: wprowadzone potiony magiczne. W niedługim czasie możliwość zdobycia wiedzy magicznej MOŻE
