@@ -38,11 +38,11 @@
 
 
 ### Elementy gry
-    -Bochater będzie reprezentowany przez: "@" lub "X"
-    -Ściany lochu będą reprezentowane przez: "|" i "_"
-    -Przeciwnicy będą reprezentowani przez: "#" lub "!"
-    -Skrzynie będą reprezentowane przez: "$" lub "D"
-    -Przedmioty będą reprezentowane przez: "*" lub "~"
+    -Bochater będzie reprezentowany przez: "θ" lub "@"
+    -Ściany lochu będą reprezentowane przez: "║" i "═"
+    -Przeciwnicy będą reprezentowani przez: "ʘ"-ogr, "Ѫ"-zombie, "ꭅ"-skeleton, "ʛ"-goblin, "ʆ"-snake
+    -Skrzynie będą reprezentowane przez: "§" lub "Ð"
+    -Przedmioty będą reprezentowane przez: "ȣ"-health potion, "†"-dagger, "!"-sword, "֍"-spirit energy
 
 
 ### Zasoby gry
